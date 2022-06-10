@@ -29,7 +29,9 @@ BACK END: MYSQL.
 
 
 Entity-Relationship Diagram is a graphical representation and relationship between entities. It describes the relationship between data.  An  entity  is  a  piece  of  data—an  object  or  a definition  that  stores  data  about.  Whether data is exchanged between organizations is a partnership. 
-Id
+
+
+
 ![image](https://user-images.githubusercontent.com/66869358/173079972-af6ca230-1275-447e-9c07-1752752a5c79.png)
  
  
